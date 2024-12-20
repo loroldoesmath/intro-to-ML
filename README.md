@@ -15,7 +15,7 @@ All notebooks in this repository were written and executed using **Google Colab*
 - **Python Notebooks**: Step-by-step tutorials and exercises to guide you through key machine learning concepts and techniques.
 - **Datasets**: All datasets required for the course are included in the repository for easy access.
 
-__
+---
 
 ## Sources
 Sources and further readings for specific concepts are included at the end each notebook. 
