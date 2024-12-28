@@ -7,7 +7,7 @@ Welcome to the **Introduction to Machine Learning (TEDA 1036)** repository! This
 ## Course Overview
 The primary goal of TEDA 1036 is to provide a practical introduction to machine learning for students with minimal background in mathematics and statistics. The course emphasizes hands-on experience and intuitive understanding over theoretical derivations.
 
-All notebooks in this repository were written and executed using **Google Colab**, making it easy for students to run the code without requiring complex software installations.
+All notebooks in this repository were written and executed using **Google Colab**, making it easy for students to run the code without requiring the installation of an IDE.
 
 ---
 
