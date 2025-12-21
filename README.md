@@ -1,6 +1,6 @@
 # Introduction to Machine Learning (TEDA 1036)
 
-Welcome to the **Introduction to Machine Learning (TEDA 1036)** repository! This repository contains the readings you need for the course. These notebooks contain the solutions to the student assignments as well. 
+Welcome to the **Introduction to Machine Learning (TEDA 1036)** repository! These notebooks contain some solutions to student assignments. You can find the original (unsolved) notebooks on your TEDA 1036 Canvas page. 
 
 ---
 
