@@ -20,4 +20,4 @@ All notebooks in this repository were written and executed using **Google Colab*
 ## Sources
 Sources and further readings for specific concepts are included at the end each notebook. 
 
-This course is based off of _Introduction to Machine Learning_ by Muller and Guido. 
+This course is based on _Introduction to Machine Learning_ by Muller and Guido. 
